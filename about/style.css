@@ -1,0 +1,156 @@
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #eeefed;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.back-ellipse-3 {
+  background: #b8e0ff;
+  border-radius: 50%;
+  width: 515px;
+  height: 516px;
+  position: absolute;
+  left: -259px;
+  top: 107px;
+}
+.back-ellipse-4 {
+  background: #b8e0ff;
+  border-radius: 50%;
+  width: 515px;
+  height: 516px;
+  position: absolute;
+  left: 1147px;
+  top: 547px;
+}
+.image-6 {
+  width: 612px;
+  height: 408px;
+  position: absolute;
+  left: 673px;
+  top: 199px;
+}
+.image-7 {
+  width: 612px;
+  height: 408px;
+  position: absolute;
+  left: 1299px;
+  top: 200px;
+}
+.piala-dunia-u-17-fifa-yang-akan-diselenggarakan-di-empat-kota-besar-indonesia-yaitu-jakarta-bandung-surabaya-dan-solo-adalah-sebuah-langkah-luar-biasa-dalam-membawa-semangat-olahraga-sepak-bola-kepada-seluruh-penjuru-nusantara-di-antara-kota-kota-ini-surabaya-memiliki-peran-yang-khusus-dan-penting-dalam-menyambut-para-pemain-muda-pelatih-serta-penggemar-sepak-bola-dari-berbagai-negara-sebagai-salah-satu-tuan-rumah-turnamen-ini-surabaya-akan-menjadi-magnet-bagi-antusiasme-dan-energi-positif-pendukung-setia-tim-tim-muda-dari-berbagai-negara-akan-memadati-tribun-menghidupkan-atmosfer-dengan-sorak-sorai-dan-nyanyian-yang-mewakili-kebanggaan-mereka {
+  color: #004ae1;
+  text-align: left;
+  font: 600 20px "Montserrat", sans-serif;
+  position: absolute;
+  left: 51px;
+  top: 241px;
+  width: 589px;
+  height: 407px;
+}
+.about2 {
+  color: #004ae1;
+  text-align: left;
+  font: 700 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: calc(50% - 45px);
+  top: 141px;
+}
+.piala-dunia-u-17-di-surabaya-tidak-hanya-sekadar-turnamen-olahraga-tetapi-juga-sebuah-perayaan-global-yang-memperlihatkan-kemampuan-indonesia-dalam-menyelenggarakan-acara-internasional-dengan-kelas-dunia-dengan-antusiasme-yang-meluap-kota-surabaya-akan-menjadi-bagian-integral-dari-cerita-piala-dunia-u-17-fifa-edisi-ini-persiapan-yang-matang-semangat-persaingan-yang-sehat-dan-keramahtamahan-yang-tiada-tandingan-akan-menjadikan-surabaya-sebagai-tuan-rumah-yang-memikat-dan-penuh-inspirasi {
+  color: #004ae1;
+  text-align: left;
+  font: 600 20px "Montserrat", sans-serif;
+  position: absolute;
+  left: 51px;
+  top: 659px;
+  width: 1237px;
+  height: 124px;
+}
+.logo-u-17 {
+  width: 44px;
+  height: 79px;
+  position: absolute;
+  left: 1361px;
+  top: 12px;
+}
+.button-back {
+  position: absolute;
+  left: 48px;
+  top: 135px;
+  overflow: visible;
+}
+.navbar {
+  position: absolute;
+  inset: 0;
+}
+.navbar-fifa {
+  width: 1441px;
+  height: 103px;
+  position: static;
+}
+.rectangle-1 {
+  background: #045694;
+  width: 1441px;
+  height: 103px;
+  position: absolute;
+  left: -1px;
+  top: -1px;
+}
+.artboard-1-3-x-1 {
+  width: 159px;
+  height: 51px;
+  position: absolute;
+  left: 48px;
+  top: 29px;
+}
+.text-navbar {
+  width: 918px;
+  height: 24.49px;
+  position: static;
+}
+.about3 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1145px;
+  top: 42px;
+}
+.highlights {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 890px;
+  top: 42px;
+}
+.jadwal-pertandingan {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 565.69px;
+  top: 42px;
+  width: 218.55px;
+  height: 24.49px;
+}
+.berita-pertandingan {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 288px;
+  top: 42px;
+  width: 222.69px;
+  height: 24.49px;
+}
+.logo-u-172 {
+  width: 44px;
+  height: 79px;
+  position: absolute;
+  left: 1361px;
+  top: 11px;
+}

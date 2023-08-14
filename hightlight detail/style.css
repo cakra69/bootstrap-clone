@@ -1,0 +1,208 @@
+.highlight-detail,
+.highlight-detail * {
+  box-sizing: border-box;
+}
+.highlight-detail {
+  background: #eeefed;
+  width: 1440px;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.header {
+  position: absolute;
+  inset: 0;
+}
+.text-navbar {
+  width: 717px;
+  height: 24.49px;
+  position: static;
+}
+.jadwal-pertandingan {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 528px;
+  top: 39px;
+  width: 218.55px;
+  height: 24.49px;
+}
+.berita-pertandingan {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 265px;
+  top: 39px;
+  width: 222.69px;
+  height: 24.49px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 921px;
+  top: 39px;
+}
+.highlight {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 787px;
+  top: 39px;
+}
+.logo-u-17 {
+  width: 44px;
+  height: 79px;
+  position: absolute;
+  left: 1361px;
+  top: 12px;
+}
+.bg {
+  position: absolute;
+  inset: 0;
+}
+.back-ellipse-3 {
+  background: #b8e0ff;
+  border-radius: 50%;
+  width: 515px;
+  height: 516px;
+  position: absolute;
+  left: -259px;
+  top: 107px;
+}
+.back-ellipse-4 {
+  background: #b8e0ff;
+  border-radius: 50%;
+  width: 515px;
+  height: 516px;
+  position: absolute;
+  left: 1147px;
+  top: 547px;
+}
+.button-back {
+  position: absolute;
+  left: 48px;
+  top: 137px;
+  overflow: visible;
+}
+.navbar {
+  position: absolute;
+  inset: 0;
+}
+.navbar-fifa {
+  width: 1441px;
+  height: 103px;
+  position: static;
+}
+.rectangle-1 {
+  background: #045694;
+  width: 1441px;
+  height: 103px;
+  position: absolute;
+  left: -1px;
+  top: -1px;
+}
+.artboard-1-3-x-1 {
+  width: 159px;
+  height: 51px;
+  position: absolute;
+  left: 48px;
+  top: 29px;
+}
+.text-navbar2 {
+  width: 918px;
+  height: 24.49px;
+  position: static;
+}
+.about2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1145px;
+  top: 42px;
+}
+.highlights {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 890px;
+  top: 42px;
+}
+.jadwal-pertandingan2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 565.69px;
+  top: 42px;
+  width: 218.55px;
+  height: 24.49px;
+}
+.berita-pertandingan2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 288px;
+  top: 42px;
+  width: 222.69px;
+  height: 24.49px;
+}
+.logo-u-172 {
+  width: 44px;
+  height: 79px;
+  position: absolute;
+  left: 1361px;
+  top: 11px;
+}
+.content {
+  position: absolute;
+  inset: 0;
+}
+.the-greatest-f-inal-ever-argentina-v-france-highlights-fifa-world-cup-qatar-2022 {
+  color: #004ae1;
+  text-align: left;
+  font: 700 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: calc(50% - 400px);
+  top: 717px;
+  width: 800px;
+  height: 32px;
+}
+.image-21 {
+  border-radius: 10px;
+  width: 800px;
+  height: 448.62px;
+  position: absolute;
+  left: calc(50% - 400px);
+  top: 253px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+._2-des-2022 {
+  color: #004ae1;
+  text-align: left;
+  font: 700 18px "Montserrat", sans-serif;
+  position: absolute;
+  left: 329px;
+  top: 783px;
+}
+._2-menit-8-detik {
+  color: #004ae1;
+  text-align: left;
+  font: 700 18px "Montserrat", sans-serif;
+  position: absolute;
+  left: 451px;
+  top: 783px;
+}
+.ri-youtube-line {
+  position: absolute;
+  left: 670px;
+  top: 462px;
+  overflow: visible;
+}

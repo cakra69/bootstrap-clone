@@ -1,0 +1,313 @@
+.page-1,
+.page-1 * {
+  box-sizing: border-box;
+}
+.page-1 {
+  background: #eeefed;
+  width: 1440px;
+  height: 2016px;
+  position: relative;
+  overflow: hidden;
+}
+.prime-twitter {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.navbar-bawah {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-4 {
+  background: #045694;
+  width: 1440px;
+  height: 119px;
+  position: absolute;
+  left: 0px;
+  top: 1897px;
+}
+.fifa-down {
+  width: 159px;
+  height: 51px;
+  position: absolute;
+  left: 24px;
+  top: 1932px;
+}
+.logo-medsos {
+  position: absolute;
+  left: 310px;
+  top: 1917px;
+  overflow: visible;
+}
+.logo-u-17 {
+  width: 41px;
+  height: 72px;
+  position: absolute;
+  left: 192px;
+  top: 1921px;
+}
+.cover-1 {
+  background: #e7e3e3;
+  width: 1440px;
+  height: 519px;
+  position: absolute;
+  left: 0px;
+  top: 1378px;
+}
+.back-ellipse-1 {
+  background: #fdf543;
+  border-radius: 50%;
+  width: 515px;
+  height: 516px;
+  position: absolute;
+  left: 1212px;
+  top: 1147px;
+}
+.back-ellipse-2 {
+  background: #b8e0ff;
+  border-radius: 50%;
+  width: 515px;
+  height: 516px;
+  position: absolute;
+  left: -206px;
+  top: 911px;
+}
+.tuan-rumah-sby {
+  position: absolute;
+  inset: 0;
+}
+.tuan-rumah-2023-surabaya {
+  color: #002d50;
+  text-align: left;
+  font: 700 18px "Montserrat", sans-serif;
+  position: absolute;
+  left: 36px;
+  top: 1405px;
+  width: 330.47px;
+}
+.piala-dunia-u-17-fifa-edisi-ke-20-yang-akan-dilaksanakan-di-kota-surabaya-adalah-sebuah-peristiwa-bersejarah-yang-akan-mengukir-kenangan-tak-terlupakan-dalam-dunia-sepak-bola-internasional-dalam-momen-yang-bersejarah-ini-para-garuda-muda-telah-bersiap-dengan-tekad-yang-kuat-untuk-mengangkat-bendera-negara-yang-penuh-cinta-terhadap-sepak-bola-di-panggung-global {
+  color: #002d50;
+  text-align: left;
+  font: 600 18px "Montserrat", sans-serif;
+  position: absolute;
+  left: 36px;
+  top: 1471px;
+  width: 546.37px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-2 {
+  border-radius: 10px;
+  width: 695.08px;
+  height: 362px;
+  position: absolute;
+  left: 1249.92px;
+  top: 1405px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.image-1 {
+  border-radius: 10px;
+  width: 601.45px;
+  height: 363px;
+  position: absolute;
+  left: 623.13px;
+  top: 1405px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.berita {
+  position: absolute;
+  inset: 0;
+}
+._2 {
+  width: 1175.79px;
+  height: 301px;
+  position: static;
+}
+.berita-1 {
+  width: 376.73px;
+  height: 272px;
+  position: static;
+}
+.gbt-jadi-venue-piala-dunia-u-17-eri-cahyadi-ubah-wajah-surabaya-menjadi-kota-wisata-olahraga {
+  color: #002d50;
+  text-align: left;
+  font: 700 18px "Montserrat", sans-serif;
+  position: absolute;
+  left: 36px;
+  top: 1233px;
+  width: 376.73px;
+  height: 65px;
+}
+.image-3 {
+  border-radius: 10px;
+  width: 376.73px;
+  height: 192px;
+  position: absolute;
+  left: 36px;
+  top: 1026px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.berita-2 {
+  width: 374.53px;
+  height: 301px;
+  position: static;
+}
+.image-4 {
+  border-radius: 10px;
+  width: 374.53px;
+  height: 192px;
+  position: absolute;
+  left: 437.73px;
+  top: 1026px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+._100-hari-jelang-piala-dunia-u-17-erick-thohir-usulkan-jakarta-bandung-surabaya-dan-solo-jadi-tuan-rumah {
+  color: #002d50;
+  text-align: left;
+  font: 700 18px "Montserrat", sans-serif;
+  position: absolute;
+  left: 437.73px;
+  top: 1233px;
+  width: 374.53px;
+  height: 94px;
+}
+.berita-3 {
+  width: 374.53px;
+  height: 286px;
+  position: static;
+}
+.image-5 {
+  border-radius: 10px;
+  width: 374.53px;
+  height: 192px;
+  position: absolute;
+  left: 837.26px;
+  top: 1026px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.piala-dunia-u-17-2023-gbt-siap-jadi-tuan-rumah-harapan-persebaya-tetap-berkandang-di-surabaya {
+  color: #002d50;
+  text-align: left;
+  font: 700 18px "Montserrat", sans-serif;
+  position: absolute;
+  left: 837.26px;
+  top: 1233px;
+  width: 374.53px;
+  height: 79px;
+}
+.berita-terbaru {
+  color: #002d50;
+  text-align: left;
+  font: 600 32px "Montserrat", sans-serif;
+  position: absolute;
+  left: 602px;
+  top: 950px;
+}
+.fic-1-1 {
+  width: 1440px;
+  height: 841px;
+  position: absolute;
+  left: 0px;
+  top: 78px;
+}
+.button-baca {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-3 {
+  background: #1377c2;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  width: 274px;
+  height: 49px;
+  position: absolute;
+  left: 44px;
+  top: 641px;
+  box-shadow: inset 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.baca-selengkapnya {
+  color: #ffffff;
+  text-align: left;
+  font: 600 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 61px;
+  top: 650px;
+  width: 248px;
+  height: 32px;
+}
+.navbar {
+  position: absolute;
+  inset: 0;
+}
+.navbar-fifa {
+  width: 1441px;
+  height: 103px;
+  position: static;
+}
+.rectangle-1 {
+  background: #045694;
+  width: 1441px;
+  height: 103px;
+  position: absolute;
+  left: -1px;
+  top: -1px;
+}
+.artboard-1-3-x-1 {
+  width: 159px;
+  height: 51px;
+  position: absolute;
+  left: 48px;
+  top: 29px;
+}
+.text-navbar {
+  width: 918px;
+  height: 24.49px;
+  position: static;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1145px;
+  top: 42px;
+}
+.highlights {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 890px;
+  top: 42px;
+}
+.jadwal-pertandingan {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 565.69px;
+  top: 42px;
+  width: 218.55px;
+  height: 24.49px;
+}
+.berita-pertandingan {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 288px;
+  top: 42px;
+  width: 222.69px;
+  height: 24.49px;
+}
+.logo-u-172 {
+  width: 44px;
+  height: 79px;
+  position: absolute;
+  left: 1361px;
+  top: 11px;
+}

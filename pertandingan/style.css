@@ -1,0 +1,299 @@
+.pertandingan,
+.pertandingan * {
+  box-sizing: border-box;
+}
+.pertandingan {
+  background: #eeefed;
+  width: 1440px;
+  height: 918px;
+  position: relative;
+  overflow: hidden;
+}
+.navbar {
+  position: absolute;
+  inset: 0;
+}
+.text-navbar {
+  width: 592px;
+  height: 24.49px;
+  position: static;
+}
+.jadwal-pertandingan {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 562.69px;
+  top: 43px;
+  width: 218.55px;
+  height: 24.49px;
+}
+.berita-pertandingan {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 295px;
+  top: 43px;
+  width: 222.69px;
+  height: 24.49px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 826px;
+  top: 43px;
+}
+.back-ellipse-3 {
+  background: #b8e0ff;
+  border-radius: 50%;
+  width: 515px;
+  height: 516px;
+  position: absolute;
+  left: -258px;
+  top: 103px;
+}
+.back-ellipse-4 {
+  background: #fdf543;
+  border-radius: 50%;
+  width: 515px;
+  height: 516px;
+  position: absolute;
+  left: 1147px;
+  top: 547px;
+}
+.jadwal-pertandingan2 {
+  color: #004ae1;
+  text-align: left;
+  font: 700 32px "Montserrat", sans-serif;
+  position: absolute;
+  left: calc(50% - 169px);
+  top: 141px;
+}
+.logo-u-17 {
+  width: 44px;
+  height: 79px;
+  position: absolute;
+  left: 1361px;
+  top: 12px;
+}
+.permainan-akan-datang {
+  position: absolute;
+  inset: 0;
+}
+.jadwal-hari-ini {
+  background: #dddddd;
+  width: 1440px;
+  height: 262px;
+  position: absolute;
+  left: -2px;
+  top: 648px;
+}
+.tim-1 {
+  border-radius: 20px;
+  width: 301px;
+  height: 192px;
+  position: absolute;
+  left: 106px;
+  top: 665px;
+}
+.tim-2 {
+  background: #7277f9;
+  border-radius: 20px;
+  width: 301px;
+  height: 192px;
+  position: absolute;
+  left: 519px;
+  top: 665px;
+}
+.tim-4 {
+  background: #7277f9;
+  border-radius: 20px;
+  width: 301px;
+  height: 192px;
+  position: absolute;
+  left: 1345px;
+  top: 667px;
+}
+.tim-3 {
+  background: #7277f9;
+  border-radius: 20px;
+  width: 301px;
+  height: 192px;
+  position: absolute;
+  left: 932px;
+  top: 665px;
+}
+.akan-datang {
+  color: #004ae1;
+  text-align: left;
+  font: 700 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 48px;
+  top: 596px;
+  width: 169px;
+  height: 30px;
+}
+.permainan-hari-ini {
+  position: absolute;
+  inset: 0;
+}
+.jadwal-hari-ini2 {
+  background: #dddddd;
+  width: 1440px;
+  height: 289px;
+  position: absolute;
+  left: 6px;
+  top: 290px;
+}
+.tim-12 {
+  border-radius: 20px;
+  width: 301px;
+  height: 192px;
+  position: absolute;
+  left: 108px;
+  top: 343px;
+}
+.tim-22 {
+  background: #7277f9;
+  border-radius: 20px;
+  width: 301px;
+  height: 192px;
+  position: absolute;
+  left: 521px;
+  top: 343px;
+}
+.tim-42 {
+  background: #7277f9;
+  border-radius: 20px;
+  width: 301px;
+  height: 192px;
+  position: absolute;
+  left: 1347px;
+  top: 345px;
+}
+.tim-32 {
+  background: #7277f9;
+  border-radius: 20px;
+  width: 301px;
+  height: 192px;
+  position: absolute;
+  left: 934px;
+  top: 343px;
+}
+.akan-datang2 {
+  color: #004ae1;
+  text-align: left;
+  font: 700 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 48px;
+  top: 242px;
+  width: 148px;
+  height: 30px;
+}
+.germany-alternate-logo-history-1 {
+  width: 81px;
+  height: 101px;
+  position: absolute;
+  left: 128px;
+  top: 379px;
+}
+.england-primary-logo-history-1 {
+  width: 129px;
+  height: 121px;
+  position: absolute;
+  left: 286px;
+  top: 673px;
+}
+.spain-vs-swedia {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 156px;
+  top: 539px;
+}
+.australia-vs-england {
+  color: #000000;
+  text-align: left;
+  font: 700 24px "Montserrat", sans-serif;
+  position: absolute;
+  left: 128px;
+  top: 865px;
+}
+.navbar-fifa {
+  width: 1441px;
+  height: 103px;
+  position: static;
+}
+.rectangle-1 {
+  background: #045694;
+  width: 1441px;
+  height: 103px;
+  position: absolute;
+  left: -1px;
+  top: -1px;
+}
+.artboard-1-3-x-1 {
+  width: 159px;
+  height: 51px;
+  position: absolute;
+  left: 48px;
+  top: 29px;
+}
+.text-navbar2 {
+  width: 918px;
+  height: 24.49px;
+  position: static;
+}
+.about2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 1145px;
+  top: 42px;
+}
+.highlights {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 890px;
+  top: 42px;
+}
+.jadwal-pertandingan3 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 565.69px;
+  top: 42px;
+  width: 218.55px;
+  height: 24.49px;
+}
+.berita-pertandingan2 {
+  color: #ffffff;
+  text-align: left;
+  font: 700 16px "Montserrat", sans-serif;
+  position: absolute;
+  left: 288px;
+  top: 42px;
+  width: 222.69px;
+  height: 24.49px;
+}
+.logo-u-172 {
+  width: 44px;
+  height: 79px;
+  position: absolute;
+  left: 1361px;
+  top: 11px;
+}
+.button-back {
+  position: absolute;
+  left: 20px;
+  top: 134px;
+  overflow: visible;
+}
